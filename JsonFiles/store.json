@@ -1,0 +1,22 @@
+{
+  "books": [
+    {
+      "author": "John Hogwarts",
+      "category": "Fiction",
+      "price": 200.5,
+      "title": "Stay With Me"
+    },
+    {
+      "author": "Peter Kent",
+      "category": "Fantasy",
+      "price": 500.5,
+      "title": "The Journey"
+    },
+    {
+      "author": "Kenneth Sy",
+      "category": "Romance",
+      "price": 150.5,
+      "title": "You and Me"
+    }
+  ]
+}

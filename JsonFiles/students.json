@@ -1,0 +1,35 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "John Hogwarts",
+      "location": "India",
+      "phone": 1234567890,
+      "courses": [
+        "Java",
+        "Selenium"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Peter Knight",
+      "location": "America",
+      "phone": 4537445634,
+      "courses": [
+        "Java",
+        "Selenium",
+        "Python"
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Elly Ports",
+      "location": "China",
+      "phone": 341883456,
+      "courses": [
+        "Java",
+        "Appium"
+      ]
+    }
+  ]
+}
